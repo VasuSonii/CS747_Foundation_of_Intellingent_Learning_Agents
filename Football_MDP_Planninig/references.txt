@@ -1,0 +1,3 @@
+https://coin-or.github.io/pulp/guides/index.html
+https://numpy.org/doc/1.26/user/quickstart.html
+
